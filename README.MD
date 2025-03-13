@@ -35,5 +35,4 @@
 ![](pic/admin-3.png)
 
 
-# 演示地址
-https://manghe.shop.d.burgercitie.org
+
